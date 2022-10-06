@@ -1,0 +1,16 @@
+* What are the new tags added in HTML5?
+ans: article,aside,audio,canvas,command,datalist,details,embed,figcaption,figure,footer,header,hgroup,keygen,mark,math,meter,nav,
+output,progress,rp,rt,ruby,section,source,summary,svg,time,track,video,wbr
+ 
+* How to embed audio and video in a webpage? 
+ans: To embed video in HTML, use the <video> tag. It contains one or more video sources at a time using <source> tag.
+
+* Semantic element in HTML5? 
+ans: non-semantic elements: <div> and <span>
+      semantic elements: <form>, <table>, and <article>
+
+* Canvas and SVG tags 
+ans: 				SVG						Canvas
+            SVG gives better performance with smaller   Canvas gives better performance with smaller surface or larger number of objects.
+               number of objects or larger surface.	
+            SVG can be modified through script and CSS.	Canvas can be modified through script only.
