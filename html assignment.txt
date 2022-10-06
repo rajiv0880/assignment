@@ -1,0 +1,76 @@
+
+* Are the HTML tags and elements the same thing?
+ans: No, because HTML tags are used to hold the HTML element & HTML element holds the content.
+
+* What are tags and attributes in HTML?
+ans: HTML Tags: Tags are the starting and ending parts of an HTML element. They begin with < symbol and end with > symbol.
+     Whatever written inside < and > are called tags.
+     HTML Attributes: It is used to define the character of an HTML element. It always placed in the opening tag of an element.
+     It generally provides additional styling (attribute) to the element.
+
+* What are void elements in HTML?
+ans: There is a special group of elements that only have start tags and does not contain any content within it, these elements are called void elements.
+      Example of such elements are <br>, <hr>, <img>, <input>, <link>
+
+* What are HTML Entities?
+ans: HTML character entities are basically a set of characters (entity) used to represent few characters reserved by the HTML.
+
+* What are different types of lists in HTML?
+ans: There are three types of lists in HTML: Unordered list or Bulleted list (ul) Ordered list or Numbered list (ol) Description list or Definition list (dl)
+
+* What is the ‘class’ attribute in HTML?
+ans: The class is an attribute which specifies one or more class names for an HTML element.
+     The class attribute can be used on any HTML element.
+
+* What is the difference between the ‘id’ attribute and the ‘class’ attribute of HTML elements?
+ans: The id is a unique identifier which is used to specify the document.
+     The class is used to specify one or more class names for an HTML element.
+
+* What are the various formatting tags in HTML?
+ans: The formatting can be used to set the text styles (like – bold, italic), highlighting the text.
+
+* How is Cell Padding different from Cell Spacing?
+ans: cell padding specifies the space between the border of a table cell and its contents and cellspacing specifies the space between adjacent cells.
+
+* How can we club two or more rows or columns into a single row or column in an HTML table?
+ans: It can be done by using the rowspan and colspan attribute in HTML.
+     The rowspan is used to merge or combine the number of cells in a row and the colspan is used to merge column cells in a table.  
+
+* What is the difference between a block-level element and an inline element?
+ans: Inline elements occupy only sufficient width required and don’t start in a new line. Block Elements occupay the full width irrespective of their sufficiency and always start in a line.
+
+* How to create a Hyperlink in HTML? 
+ans: for create hyperlink use the <a> and </a> tags, which are the tags used to define the links.
+
+* What is the use of an iframe tag?
+ans: The iframe tag specifies inline frame. An inline frame is used to embed another document within the current HTML document.
+
+* What is the use of a span tag? Explain with example?
+ans: The <span> tag is an inline container used to mark up a part of a text, or a part of a document.
+     exp:
+     <html>
+     <body>
+     <h1>Welcome To Joshi electric</h1>
+     <p> is a
+        <span style="color:red;font-weight:bolder">
+            Accesories</span> for
+        <span style="background-color: lightgreen;">Decoration</span>.
+    </p>
+    </body>
+    </html>
+
+* How to insert a picture into a background image of a web page?
+ans: To set the background image of a webpage, use the CSS style. Under the CSS <style> tag, then<body> tag and add the property background-image.
+
+* How are active links different from normal links?
+ans: Normal links are links which are there on the page and have not been clicked yet.
+     Active links are those links, which have just been clicked at that instant.
+
+* What are the different tags to separate sections of text?
+ans: The <br> and <p> tag are way to seprate  the lines of text. 
+
+
+
+
+
+
