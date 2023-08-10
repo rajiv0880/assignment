@@ -1,0 +1,28 @@
+• What is React Js?
+ans: React is JavaScript Library
+
+• What is NPM in React Js?
+ans: npm is Node package manager and it define Globaly
+
+• What is Role of Node Js in react Js?
+ans: node js is framework of javascript which is used for working with backend of application
+
+• What is CLI command In React Js?
+ans: CLI = command line program
+     that accepts text input to execute operating system functions.
+
+• What is Components in React Js?
+ans:components are reusable bits of code and 2 type of components: class & function
+
+• What is Header and Content Components in React Js?
+ans:Headers are compositions that extend standard navbar functionalities.
+
+• How to install React Js on Windows, Linux Operating System? How to install NPM and How to check version of NPM?
+ans: first we need to install to node.js, by entering command npm install in terminal sometimes if its not done with npm installwe need to put --force after npm install, for version check node-v 
+
+• How to check version of React Js?
+ans: create-react-app --version
+
+• How to change in components of React Js?
+ans: We have to set initial state value inside constructor function and set click event handler of the element upon which click, results in changing state.
+     Then pass the function to the click handler and change the state of the component inside the function using setState.
