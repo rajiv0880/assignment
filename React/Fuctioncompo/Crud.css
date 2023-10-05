@@ -1,0 +1,23 @@
+
+.inp-f1, .alldata{
+    text-align: center;
+}
+
+input{
+    padding: 10px 5px;
+}
+button{
+    padding: 10px 10px; 
+}
+h1{
+    text-align: center;
+}
+.alldata button{
+    padding: 10px 70px;
+}
+.edit{
+    background-color: green;
+}
+.del{
+    background-color: red;
+}

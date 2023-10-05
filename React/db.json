@@ -1,0 +1,204 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "customer name": "Rajiv joshi",
+      "profession": "Businessmen",
+      "branch": "gandhi chowk",
+      "city": "Bhanvad",
+      "bank-balance": "08cr"
+    },
+      {
+      "id": 2,
+      "customer name": "Anand joshi",
+      "profession": "Businessmen",
+      "branch": "gandhi chowk",
+      "city": "Bhanvad",
+      "bank-balance": "05cr"
+    },
+    {
+      "id": 3,
+      "customer name": "Pankaj Prasad",
+      "profession": "ex-army men",
+      "branch": "gandhinagar",
+      "city": "Gandhinagar",
+      "bank-balance": "50,000"
+    },
+    {
+      "id": 4,
+      "customer name": "Mitesh Gohil",
+      "profession": "Stock-market",
+      "branch": "SG high way",
+      "city": "Ahmedabad",
+      "bank-balance": "02cr"
+    },
+    {
+      "id": 5,
+      "customer name": "Tom Cruise",
+      "profession": "Actor",
+      "branch": "Amsterdum",
+      "city": "Amsterdum",
+      "bank-balance": "200cr"
+    },
+    {
+      "id": 6,
+      "customer name": "Robert Downrey jr.",
+      "profession": "Actor",
+      "branch": "leicester",
+      "city": "leicester",
+      "bank-balance": "300cr"
+    },
+    {
+      "id": 7,
+      "customer name": "Johnny Deeep",
+      "profession": "Actor",
+      "branch": "leicester",
+      "city": "leicester  ",
+      "bank-balance": "150cr"
+    },
+    {
+      "id": 8,
+      "customer name": "Narendra Modi",
+      "profession": "Politician",
+      "branch": "Delhi",
+      "city": "Delhi",
+      "bank-balance": "10cr"
+    },
+    {
+      "id": 9,
+      "customer name": "Amit Shah",
+      "profession": "Politician",
+      "branch": "Naranpura",
+      "city": "Ahmedabad",
+      "bank-balance": "500cr"
+    },
+    {
+      "id": 10,
+      "customer name": "Yogi",
+      "profession": "Politician",
+      "branch": "Luckhnow",
+      "city": "Luckhnow",
+      "bank-balance": "01cr"
+    },
+    {
+      "id": 11,
+      "customer name": "Harnish Panchal",
+      "profession": "Teacher",
+      "branch": "SG high way",
+      "city": "Ahmedabad",
+      "bank-balance": "01cr"
+    },
+    {
+      "id": 12,
+      "customer name": "Harshad Mehta",
+      "profession": "Stock-market",
+      "branch": "Andheri west",
+      "city": "Mumbai",
+      "bank-balance": "10000cr"
+    },
+    {
+      "id": 13,
+      "customer name": "Osama bin ladin",
+      "profession": "Mafia",
+      "branch": "Dharavi",
+      "city": "Mumbai",
+      "bank-balance": "120cr"
+    },
+    {
+      "id": 14,
+      "customer name": "Dan Bilzerian",
+      "profession": "Poker",
+      "branch": "Las-vegas",
+      "city": "Las-vegas",
+      "bank-balance": "800cr"
+    },
+    {
+      "id": 15,
+      "customer name": "Conor McGregor",
+      "profession": "Wrestler",
+      "branch": "Dublin",
+      "city": "Dublin",
+      "bank-balance": "180cr"
+    },
+    {
+      "id": 16,
+      "customer name": "Vladimir Putin",
+      "profession": "Politician",
+      "branch": "Saint petersburg",
+      "city": "Saint petersburg",
+      "bank-balance": "100000cr"
+    },
+    {
+      "id": 17,
+      "customer name": "Mohammed Bin Rashid AI Maktoum",
+      "profession": "king",
+      "branch": "Dubai",
+      "city": "Dubai",
+      "bank-balance": "20000cr"
+    },
+    {
+      "id": 18,
+      "customer name": " HAfez Aladin MF",
+      "profession": "Dictator",
+      "branch": "Wadiya",
+      "city": "The Republic of Wadiya",
+      "bank-balance": "15000cr"
+    },
+    {
+      "id": 19,
+      "customer name": "Justin Bieber",
+      "profession": "Singer",
+      "branch": "London",
+      "city": "London",
+      "bank-balance": "1500cr"
+    },
+    {
+      "id": 20,
+      "customer name": "MS Dhoni",
+      "profession": "Crickter",
+      "branch": "Ranchi",
+      "city": "Ranchi",
+      "bank-balance": "1000cr"
+    },
+    {
+      "id": 21,
+      "customer name": "Virat Kohli",
+      "profession": "Crickter",
+      "branch": "Delhi",
+      "city": "Delhi",
+      "bank-balance": "2000cr"
+    },
+    {
+      "id": 22,
+      "customer name": "Vijay Dinanath Chauhan",
+      "profession": "Don",
+      "branch": "Mandva",
+      "city": "Mandva",
+      "bank-balance": "125cr"
+    },
+    {
+      "id": 23,
+      "customer name": "Daud Ibrahim",
+      "profession": "Mafia",
+      "branch": "Bandra",
+      "city": "Bandra",
+      "bank-balance": "300cr"
+    },
+    {
+      "id": 24,
+      "customer name": "Pablo Escobar",
+      "profession": "Mafia",
+      "branch": "Bogota",
+      "city": "Bogota",
+      "bank-balance": "10000000000cr"
+    },
+    {
+      "id": 25,
+      "customer name": "Mahatma Gandhi",
+      "profession": "Freedom Fighter",
+      "branch": "Kamla bag",
+      "city": "Porbandar",
+      "bank-balance": "0cr"
+    }
+  ]
+}
